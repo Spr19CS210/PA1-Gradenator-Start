@@ -2,4 +2,4 @@
 Start code for PA1-Gradenator.
 
 The PA1-Gradenator writeup can be found at 
-Will update once assignment is released.
+https://github.com/Spr19CS210/PA-Drill-Section-Writeups/tree/master/PA1-Gradenator
